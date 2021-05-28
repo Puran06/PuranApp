@@ -8,7 +8,8 @@ namespace PuranConsole
 
         static void Main(string[] args)
         {
-
+             // This is puran .I made this changes     
+             Console.WriteLine("Hello");              
             Application.RunApplication();
         }
     
