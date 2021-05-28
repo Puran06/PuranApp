@@ -1,0 +1,13 @@
+﻿
+
+
+
+Make list of cussWords
+ 
+Ask user for userName input
+
+Check if userName contains cussword
+
+If ( userName is valid ) => add user to the UserList
+
+Ask user whether they want to continue to add the userName or exit the application
